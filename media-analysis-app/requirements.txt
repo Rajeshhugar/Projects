@@ -1,0 +1,11 @@
+streamlit
+requests
+lxml
+deep-translator
+pydub
+python-dotenv
+concurrent.futures
+langdetect
+groq
+math
+ffmpeg
